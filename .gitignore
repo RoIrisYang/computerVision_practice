@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+video/clap.mp4
+video/Dance.mkv
